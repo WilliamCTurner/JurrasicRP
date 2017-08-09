@@ -1,2 +1,2 @@
 # JurrasicRP
-Garrys Mod Gamemode about dinosaurs coming back to life, roleplay and see the realistic Dinosaurs, this gamemode was based on the movie Jurassic Park
+Garrys Mod Gamemode about dinosaurs coming back to life and once again see them in gmod, this gamemode was made in nutscript
